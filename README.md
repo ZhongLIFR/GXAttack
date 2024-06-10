@@ -1,3 +1,3 @@
 # GXAttack
 
-Coming soon
+Coming soon...
