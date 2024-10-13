@@ -1,0 +1,12 @@
+-e git+https://github.com/mims-harvard/GraphXAI.git@a11e65ffbc4df737f35522a8accf2283a8aeaa37#egg=graphxai
+torch==1.13.1
+torch-cluster==1.6.3
+torch-geometric==2.2.0
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+matplotlib==3.7.5
+matplotlib-inline==0.1.7
+networkx==3.1
+ipdb==0.13.13
+pandas==2.0.3
+pgmpy==0.1.25
