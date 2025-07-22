@@ -4,7 +4,7 @@ This repository is the official implementation of *Explainable Graph Neural Netw
 # Explainable Graph Neural Networks Under Fire
 
 <p align="center">
-<img src="GXAttack_Intro4.png" width="1200">
+<img src="GXAttack_Intro_new.png" width="1200">
 </p>
 
 For post-hoc GNN explainers, the explanatory subgraph on the perturbed graph (right) that receives “prediction-preserving" perturbations can largely differ from that on the original graph (left).
