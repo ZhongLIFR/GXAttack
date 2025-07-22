@@ -1,7 +1,7 @@
 
-This repository is the official implementation of *Explainable Graph Neural Netwroks under Fire* (Paper under review). 
+This repository is the official implementation of *When Predictions Remain but Explanations Shift: White-box Adversarial Attacks on Post-hoc GNN Explanations* (Paper under review). 
 
-# Explainable Graph Neural Networks Under Fire
+# When Predictions Remain but Explanations Shift: White-box Adversarial Attacks on Post-hoc GNN Explanations
 
 <p align="center">
 <img src="GXAttack_Intro_New.png" width="1200">
