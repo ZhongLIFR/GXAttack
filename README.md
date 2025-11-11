@@ -1,5 +1,5 @@
 
-This repository is the official implementation of *When Predictions Remain but Explanations Shift: White-box Adversarial Attacks on Post-hoc GNN Explanations* (Paper under review). 
+This repository is the official implementation of *White-box Adversarial Attacks on Post-hoc GNN Explanations* (Paper under review). 
 
 # When Predictions Remain but Explanations Shift: White-box Adversarial Attacks on Post-hoc GNN Explanations
 
